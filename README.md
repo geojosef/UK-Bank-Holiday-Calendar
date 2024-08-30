@@ -80,4 +80,4 @@ Geo Joseph – https://github.com/geojosef
 
 ### Example
 
-![Calendar Screenshot](link_to_screenshot_if_any)
+![Calendar Screenshot](https://github.com/user-attachments/assets/595ac91c-24c6-4b3d-b143-d1b479af39b1)
