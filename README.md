@@ -13,18 +13,18 @@ The script fetches official bank holiday data directly from the UK government's 
 
 ## Installation and Setup
 
-1. Copy the Script to Your Google Apps Script Editor:
+1. **Copy the Script to Your Google Apps Script Editor:**
    - Open Google Apps Script by navigating to https://script.google.com/ and creating a new project.
    - Copy and paste the provided `script.gs` file content into the script editor.
 
-2. Create the Custom Calendar:
+2. **Create the Custom Calendar:**
    - Ensure you have a Google Calendar where the script will create and manage events. If not, the script will automatically create a calendar named "Numbered UK Bank Holidays."
 
-3. Authorize the Script:
+3. **Authorize the Script:**
    - Run the script for the first time by selecting `createNumberedBankHolidayCalendar` and clicking the play button.
    - Google will ask you to authorize the script to manage your calendar and fetch data from external services (UK government API).
 
-4. Set Up the Trigger:
+4. **Set Up the Trigger:**
    - Use the script’s `createTrigger` function to set up a time-based trigger that will automatically run the script daily (or at your chosen frequency) to keep the calendar up to date.
    - To do this, select `createTrigger`, click on the play button, and the time-driven trigger will be created.
 
