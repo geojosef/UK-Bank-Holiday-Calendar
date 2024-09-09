@@ -3,6 +3,10 @@
 This Google Apps Script automatically creates a custom calendar with numbered UK Bank Holidays for each financial year (April to March). 
 The script fetches official bank holiday data directly from the UK government's public API and organizes the holidays in a custom Google Calendar. Each holiday is numbered (e.g., `(1/9) New Year's Day`) within the financial year for easy tracking.
 
+## Purpose of This Calendar
+
+The Numbered UK Bank Holidays Calendar is designed to help you easily track the number of official bank holidays within each financial year in England (April to March). By numbering these holidays, the calendar provides a clear overview of the available public holidays and can assist in planning annual leave within the financial year. This tool is particularly useful for employees and anyone who needs to manage time off around bank holidays efficiently.
+
 ## Features
 
 - Automatically fetches **official UK bank holidays** from the UK government's public API.
